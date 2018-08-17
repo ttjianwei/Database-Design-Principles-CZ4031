@@ -1,2 +1,2 @@
-# Database-Design-Principles-CZ4031
+# Database-Design-Principles
 Query Optimizations using PostgreSQL
